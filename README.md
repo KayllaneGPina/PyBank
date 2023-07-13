@@ -5,9 +5,12 @@ Fomos contratados por um grande banco para desenvolver o seu novo sistema. Esse 
 
 ### Funcionalidades
 [x] Depósito
+
 [x] Saque
+
 [x] Extrato
 
 ### Regras de negócio
 [x] Apenas 3 saques diários com limite de R$ 500.00
+
 [x] Extrato deve listar todas as operações (Depósito, saque e o saldo atual em conta)
